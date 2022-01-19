@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Devin
 
+<img  height=400px src='https://github.com/mentalcaries/mentalcaries/blob/main/DSC02626-Edit.jpg' alt='So much Devin' />
+
 ---
 - 👨🏽‍💻 I'm a full stack developer who really enjoys coding
-- 📸 I'm a photographer and also the drummer for SHOCKWAVE
+- 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
 - 😁 I've been a practising dentist for 12+ years
 
 ---
