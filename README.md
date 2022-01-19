@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Devin
-
-<img text-align=center height=600px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
-
+<div display=flex justify-content=center >
+<img height=600px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
+</div>
 ---
 - 👨🏽‍💻 I'm a full stack developer who really enjoys coding
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
