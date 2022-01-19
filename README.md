@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Devin
 
 ---
-👨🏽‍💻 I'm a full stack developer who really enjoys coding
-📸 I'm a photographer and also the drummer for SHOCKWAVE
-😁 I've been a practising dentist for 12+ years
+- 👨🏽‍💻 I'm a full stack developer who really enjoys coding
+- 📸 I'm a photographer and also the drummer for SHOCKWAVE
+- 😁 I've been a practising dentist for 12+ years
 
 ---
 
