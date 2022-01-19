@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Devin
 
-<img  height=400px src='https://github.com/mentalcaries/mentalcaries/blob/main/DSC02626-Edit.jpg' alt='So much Devin' />
+<img text-align=center height=600px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
 
 ---
 - 👨🏽‍💻 I'm a full stack developer who really enjoys coding
