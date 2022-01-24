@@ -15,13 +15,15 @@
 
 ---
 
-## 🔭 I’m currently working on:
+<h3 align=Currently working on:</h3>
+<p align="left">
 
 
   - [x] DotCot: An investor/startup matching platform.
   - [x] News Explorer: A Practicum Final Project
 
-## Recent projects:
+<h3 align="left">Recent Projects:</h3>
+<p align="left">
  - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
  - [Smilevery](https://github.com/mentalcaries/smilevery-react)💌
 
@@ -33,7 +35,8 @@
 <a href="https://instagram.com/https://instagram.com/devinshi.photo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/devinshi.photo" height="30" width="40" /></a>
 </p>
  
-## Check out my Photography:
+<h3 align="left">Photography Pages</h3>
+<p align="left">
  - 📸 [Flickr](https://www.flickr.com/photos/neexis/)
  - 🤢 [Instagram](https://www.instagram.com/devinshi.photo/)
 
