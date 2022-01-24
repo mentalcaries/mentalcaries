@@ -38,9 +38,10 @@
  
 <h3 align="left">Photography Pages</h3>
 <p align="left">
- - 📸 [Flickr](https://www.flickr.com/photos/neexis/)
- - 🤢 [Instagram](https://www.instagram.com/devinshi.photo/)
-
+  <ul>
+    <li> 📸 [Flickr](https://www.flickr.com/photos/neexis/) </li>
+  <li> 🤢 [Instagram](https://www.instagram.com/devinshi.photo/) </li>
+  </ul>
 
 <!--
 **mentalcaries/mentalcaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
