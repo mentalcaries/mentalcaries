@@ -3,18 +3,15 @@
 <img height=400px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
 <p/>
 
----
 
 - 👨🏽‍💻 I'm a full stack developer who really enjoys coding
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
 - 😁 I've been a practising dentist for 12+ years
 
----
 
-- 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
  	- [x] News Explorer: A Practicum Final Project
   - [x] DotCot: An investor/startup matching platform.
----
 
 ## Recent projects:
  - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
