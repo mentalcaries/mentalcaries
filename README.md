@@ -36,7 +36,7 @@
 ## Check out my Photography:
  - 📸 [Flickr](https://www.flickr.com/photos/neexis/)
  - 🤢 [Instagram](https://www.instagram.com/devinshi.photo/)
- ---
+
 
 <!--
 **mentalcaries/mentalcaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
