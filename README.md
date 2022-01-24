@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 I’m currently working on:
+## 🔭 I’m currently working on:
  	- [x] News Explorer: A Practicum Final Project
   - [x] DotCot: An investor/startup matching platform.
 ---
