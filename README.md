@@ -3,6 +3,7 @@
 <img height=400px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
 <p/>
 
+---
 
 - 👨🏽‍💻 I'm a full stack developer who really enjoys coding
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
@@ -15,33 +16,25 @@
 
 ---
 
-<h3 align=Currently working on:</h3>
-<p align="left">
+- 🔭 I’m currently working on:
+ 	- [x] News Explorer: A Practicum Final Project
+  - [x] DotCot: An investor/startup matching platform.
+---
 
- - [x] DotCot: An investor/startup matching platform.
- - [x] News Explorer: A Practicum Final Project
-  
-  --
-
-<h3 align="left">Recent Projects:</h3>
-<p align="left">
+## Recent projects:
  - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
  - [Smilevery](https://github.com/mentalcaries/smilevery-react)💌
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devin-jaggernauth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devin-jaggernauth/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/devinshi.photo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/devinshi.photo" height="30" width="40" /></a>
-</p>
+## Connect with me on:
+ - [Linkedin](https://www.linkedin.com/in/devin-jaggernauth)
+ ---
  
-<h3 align="left">Photography Pages</h3>
-<p align="left">
-  <ul>
-    <li> 📸 [Flickr](https://www.flickr.com/photos/neexis/) </li>
-  <li> 🤢 [Instagram](https://www.instagram.com/devinshi.photo/) </li>
-  </ul>
+## Check out my Photography:
+ - 📸 [Flickr](https://www.flickr.com/photos/neexis/)
+ - 🤢 [Instagram](https://www.instagram.com/devinshi.photo/)
+ ---
 
 <!--
 **mentalcaries/mentalcaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
