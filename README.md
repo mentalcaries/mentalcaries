@@ -11,8 +11,9 @@
 
 ## 🔭 I’m currently working on:
 
- 	- [x] News Explorer: A Practicum Final Project
+
   - [x] DotCot: An investor/startup matching platform.
+  - [x] News Explorer: A Practicum Final Project
 
 ## Recent projects:
  - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
