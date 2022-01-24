@@ -18,9 +18,8 @@
 <h3 align=Currently working on:</h3>
 <p align="left">
 
-
-  - [x] DotCot: An investor/startup matching platform.
-  - [x] News Explorer: A Practicum Final Project
+ - [x] DotCot: An investor/startup matching platform.
+ - [x] News Explorer: A Practicum Final Project
 
 <h3 align="left">Recent Projects:</h3>
 <p align="left">
