@@ -18,7 +18,7 @@
 
 ## 🔭 I’m currently working on:
 
- 	- ⏳ Personal Portfolio Website
+⏳ Personal Portfolio Website
 
 
 ## Recent projects:
