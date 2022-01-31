@@ -20,6 +20,7 @@
 
 ⏳ Personal Portfolio Website
 
+---
 
 ## Recent projects:
  - [News Explorer](https://github.com/mentalcaries/news-explorer-frontend) 🌍
