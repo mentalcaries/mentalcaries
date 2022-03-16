@@ -17,7 +17,7 @@
 ---
 
 ## 🔭 I’m currently working on:
-
+⏳ CS50
 ⏳ Personal Portfolio Website
 
 ---
