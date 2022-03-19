@@ -19,6 +19,8 @@
 ## 🔭 I’m currently working on:
 ⏳ CS50
 
+⏳ Data Structures & Algorithms
+
 ⏳ Personal Portfolio Website
 
 ---
