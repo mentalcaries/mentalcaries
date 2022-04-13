@@ -21,8 +21,6 @@
 
 ⏳ Data Structures & Algorithms
 
-⏳ Personal Portfolio Website
-
 ---
 
 ## Recent projects:
