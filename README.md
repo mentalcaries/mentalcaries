@@ -18,7 +18,9 @@
 
 ## 🔭 I’m currently working on:
 ⏳ CS50: Final Project
+
 ⏳ Learning TypeScript
+
 ⏳ Data Structures & Algorithms
 
 ---
