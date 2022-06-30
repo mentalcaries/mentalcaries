@@ -17,11 +17,10 @@
 ---
 
 ## 🔭 I’m currently working on:
-⏳ CS50: Final Project
 
-⏳ Learning TypeScript
+⏳ Building Apps with TypeScript
 
-⏳ Data Structures & Algorithms
+👾 Data Structures & Algorithms
 
 ---
 
