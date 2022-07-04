@@ -20,15 +20,18 @@
 
 ⏳ Building Apps with TypeScript
 
+🧑🏽‍💻 Learning Redux
+
 👾 Data Structures & Algorithms
 
 ---
 
 ## Recent projects:
+ - [DotCot](https://peaceful-woodland-39661.herokuapp.com/) 📊
+ - [Warehouse Manager] (https://github.com/mentalcaries/warehouse-inventory-ts) 🚛
  - [News Explorer](https://github.com/mentalcaries/news-explorer-frontend) 🌍
  - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
- - [Smilevery](https://github.com/mentalcaries/smilevery-react)💌
- - [x] DotCot: An investor/startup matching platform.
+ 
 
 ---
 
