@@ -23,9 +23,7 @@
 
 ⏳ Building Apps with TypeScript
 
-🧑🏽‍💻 Learning Redux
-
-📊 Learning GraphQL
+🚊 Learning Ruby on Rails
 
 👾 Data Structures & Algorithms
 
