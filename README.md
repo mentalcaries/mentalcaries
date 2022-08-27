@@ -5,7 +5,7 @@
 
 ---
 
-- 👨🏽‍💻 I'm a full stack developer who really enjoys coding
+- 👨🏽‍💻 I'm a full stack developer with a love for problem solving
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
 - 😁 I've been a practising dentist for 12+ years
 
