@@ -21,9 +21,9 @@
 
 ## 🔭 I’m currently working on:
 
-⏳ Building Apps with TypeScript
+⏳ Building Apps with React/JavaScript/TypeScript
 
-🚊 Learning Ruby on Rails
+🚊 CS50w: Python and Django
 
 👾 Data Structures & Algorithms
 
