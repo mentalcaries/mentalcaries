@@ -23,7 +23,7 @@
 
 ⏳ Building Apps with React/JavaScript/TypeScript
 
-🚊 CS50w: Python and Django
+🚊 Learning Go (to build some microservices)
 
 👾 Data Structures & Algorithms
 
