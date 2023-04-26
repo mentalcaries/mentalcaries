@@ -23,7 +23,7 @@
 
 ⏳ Building Apps with React/JavaScript/TypeScript
 
-🚊 Learning Go (to build some microservices)
+💪🏼 [FlexFactor](https://flex-factor-v2.vercel.app/)
 
 👾 Data Structures & Algorithms
 
