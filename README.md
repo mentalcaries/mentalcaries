@@ -23,18 +23,18 @@
 
 ⏳ Building Apps with React/JavaScript/TypeScript
 
-💪🏼 [FlexFactor](https://flex-factor-v2.vercel.app/)
+🗓️ [Connectient for Patient Appointments](https://connectient.vercel.app/)
 
-👾 Data Structures & Algorithms
+🩺 Clerkwise - Patient Chart Management Simplified
 
 ---
 
 ## Recent projects:
+ - [FlexFactor](https://flex-factor-v2.vercel.app/) 💪🏼
+ - [Essential Dental Solutions](https://southtrinidaddentist.com/)
  - [DotCot](https://peaceful-woodland-39661.herokuapp.com/) 📊
  - [Warehouse Manager](https://github.com/mentalcaries/warehouse-inventory-ts) 🚛
- - [News Explorer](https://github.com/mentalcaries/news-explorer-frontend) 🌍
- - [Around the US](https://github.com/mentalcaries/react-around-api-full) 🚗
- 
+
 
 ---
 
