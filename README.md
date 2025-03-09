@@ -21,19 +21,16 @@
 
 ## 🔭 I’m currently working on:
 
-⏳ Building Apps with React/JavaScript/TypeScript
-
-🗓️ [Connectient for Patient Appointments](https://connectient.vercel.app/)
+🛢️ WellSolve
 
 🩺 Clerkwise - Patient Chart Management Simplified
 
 ---
 
 ## Recent projects:
+ - [Connectient for Patient Appointments](https://connectient.vercel.app/)
  - [FlexFactor](https://flex-factor-v2.vercel.app/) 💪🏼
  - [Essential Dental Solutions](https://southtrinidaddentist.com/)
- - [DotCot](https://peaceful-woodland-39661.herokuapp.com/) 📊
- - [Warehouse Manager](https://github.com/mentalcaries/warehouse-inventory-ts) 🚛
 
 
 ---
