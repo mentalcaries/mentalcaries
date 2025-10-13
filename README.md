@@ -22,15 +22,14 @@
 
 🛢️ WellSolve
 
-🩺 Clerkwise - Patient Chart Management Simplified
+🩺 Connectient - Appointment Management Simplified
 
 ---
 
 ## Recent projects:
- - [Connectient for Patient Appointments](https://connectient.vercel.app/)
- - [FlexFactor](https://flex-factor-v2.vercel.app/) 💪🏼
- - [Essential Dental Solutions](https://southtrinidaddentist.com/)
-
+ - [Connectient for Patient Appointments](https://connectient.co/)
+ - [WellSolve](https://wellsolve.vercel.app/) 💪🏼
+ - [Code Check](https://github.com/mentalcaries/codecheck)
 
 ---
 
