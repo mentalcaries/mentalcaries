@@ -7,7 +7,7 @@
 
 - 👨🏽‍💻 I'm a full stack developer with a love for problem solving
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
-- 😁 I practised dentistry fof 14 years before transitioning into tech
+- 😁 I practised dentistry for 14 years before transitioning into tech
 
 ---
 <h3 align="left">Languages and Tools:</h3>
