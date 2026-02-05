@@ -26,13 +26,11 @@
 🎓 FairGrade - Clinical Medical Student Assessments
 🩺 [Connectient](https://connectient.co) - Appointment Management Simplified (Long term passion project)
 
----
 
 ## Recent projects:
  - [Connectient for Patient Appointments](https://connectient.co/)
  - [Code Check](https://github.com/mentalcaries/codecheck)
 
----
 
 ## Connect with me on:
  - [Linkedin](https://www.linkedin.com/in/devin-jaggernauth)
