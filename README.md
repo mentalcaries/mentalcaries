@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Devin
 <p align="center" >
-<img height=400px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
+<img height=3200px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
 <p/>
 
 ---
 
-- 👨🏽‍💻 I'm a full stack developer with a love for problem solving
+- 👨🏽‍💻 I'm a Software Engineer (currently Backend leaning) with a love for problem solving
 - 📸 When I'm not behind the camera, I'm behind the kit 🥁 for SHOCKWAVE
 - 😁 I practised dentistry for 14 years before transitioning into tech
 
