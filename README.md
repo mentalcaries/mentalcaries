@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,py,nodejs,react,vue,nextjs,nuxtjs,astro,tailwind,docker,git,aws,gcp,linux,postgres,mongodb,prisma,supabase,obsidian&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ts,go,py,nodejs,react,vue,express,nextjs,nuxtjs,astro,tailwind,docker,git,aws,gcp,linux,postgres,mongodb,prisma,supabase,obsidian&perline=7" />
   </a>
 </p>
 ---
