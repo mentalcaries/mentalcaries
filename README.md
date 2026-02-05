@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Devin
 <p align="center" >
-<img height=3200px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' />
+<img height=320px src='https://github.com/mentalcaries/mentalcaries/blob/main/minipro.jpg' alt='So much Devin' style="border-radius: 16px;" />
 <p/>
 
 ---
